@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **meenal2000@gmail.com**
 
-- ⚡ Fun fact **Mostly people end up liking me.**
+- ⚡ Fun fact **My favourite alphabet is 'S' .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
