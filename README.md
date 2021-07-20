@@ -2,7 +2,6 @@
 <h3 align="center">A 20 y/o computer science undergraduate student . I have a soft spot for technology and communities.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meenal2000&label=Profile%20views&color=0e75b6&style=flat" alt="meenal2000" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 - 🔭 I’m currently working on **Real-time chatroom**
 
 - 🌱 I’m currently learning **NodeJs**
