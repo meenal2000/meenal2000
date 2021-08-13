@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **Real-time chatroom**
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **ReactJs**
 
 - 👯 I’m looking to collaborate on **any webD project**
 
