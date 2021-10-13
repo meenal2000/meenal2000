@@ -12,8 +12,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/meenal2000](https://github.com/meenal2000)
 
-- 📫 How to reach me **meenal2000@gmail.com**
-
 - ⚡ Fun fact **My favourite alphabet is 'S' .**
 
 <h3 align="left">Connect with me:</h3>
