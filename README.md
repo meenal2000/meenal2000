@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/meenal2000](https://github.com/meenal2000)
 
-- ⚡ Fun fact **My favourite alphabet is 'S' .**
+- ⚡ Fun fact **My favourite alphabet is 'S' . It used to be 'D' sometime ago.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
